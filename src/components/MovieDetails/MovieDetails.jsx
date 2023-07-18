@@ -45,7 +45,7 @@ const MovieDetails = () => {
         Go Back
       </Link>
       {loading ? (
-        'Loading...'
+        'Loading... lastcommit'
       ) : (
         <>
           <div className={s.imgWrap}>
